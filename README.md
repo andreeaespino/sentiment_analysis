@@ -47,6 +47,7 @@ cd sentiment_analysis
 jupyter notebook
 ```
 3. Open and run:
+   
 *`notebook.ipynb` to analyze sentiment data.
 
 * `prototype.ipynb` to launch the Gradio dashboard.
