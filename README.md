@@ -35,6 +35,7 @@ Install the required Python packages:
 
 ```bash
 pip install pandas numpy matplotlib seaborn nltk scikit-learn gradio
+```
 
 
 ## Acknowledgements
