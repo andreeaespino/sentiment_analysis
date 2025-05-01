@@ -47,9 +47,8 @@ pip install pandas numpy matplotlib seaborn nltk scikit-learn vaderSentiment tor
     jupyter notebook
     ```
 3. Open and run:
-   
-  * `notebook.ipynb` to analyze sentiment data.
-  * `prototype.ipynb` to launch the Gradio dashboard.
+    * `notebook.ipynb` to analyze sentiment data.
+    * `prototype.ipynb` to launch the Gradio dashboard.
 
 
 ## Acknowledgements
