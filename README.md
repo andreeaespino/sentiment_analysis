@@ -38,18 +38,18 @@ pip install pandas numpy matplotlib seaborn nltk scikit-learn vaderSentiment tor
 ```
 ### Running Notebooks
 1. Clone the repository:
-```bash
-git clone https://github.com/andreeaespino/sentiment_analysis.git
-cd sentiment_analysis
-```
+    ```bash
+    git clone https://github.com/andreeaespino/sentiment_analysis.git
+    cd sentiment_analysis
+    ```
 2. Launch Jupyter Notebook:
-```bash
-jupyter notebook
-```
+    ```bash
+    jupyter notebook
+    ```
 3. Open and run:
    
-* `notebook.ipynb` to analyze sentiment data.
-* `prototype.ipynb` to launch the Gradio dashboard.
+    * `notebook.ipynb` to analyze sentiment data.
+    * `prototype.ipynb` to launch the Gradio dashboard.
 
 
 ## Acknowledgements
