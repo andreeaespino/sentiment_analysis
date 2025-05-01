@@ -1,6 +1,9 @@
 # Hotel Industry Sentiment Analysis Dashboard
 This repository contains Python notebooks for performing and visualizing sentiment analysis in the hotel industry. It includes data processing, sentiment classification, and an interactive prototype dashboard to explore customer feedback and trends.
 
+## Dataset Information
+The hotel reviews used in this project are sourced from the OpinRank Review Dataset, which compiles full customer reviews collected from TripAdvisor. The dataset covers hotels in 10 major cities, with each city containing approximately 80 to 700 hotels. In total, the dataset includes 254,571 reviews, providing a rich and diverse base for sentiment analysis and insights into customer experiences across a wide range of hotel services and locations.
+
 ## Technologies
 The project is created with:
 * python
