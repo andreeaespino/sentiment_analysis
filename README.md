@@ -6,15 +6,15 @@ The hotel reviews used in this project are sourced from the OpinRank Review Data
 
 ## Technologies
 The project is created with:
-* python
-* pandas
-* numpy
-* re
-* nltk
-* scikit-learn
-* torch
-* transformers
-* gradio
+* `python`
+* `pandas`
+* `numpy`
+* `re`
+* `nltk`
+* `scikit-learn`
+* `torch`
+* `transformers`
+* `gradio`
 
 ## Contents
 - **notebook.ipynb**: Core notebook for sentiment analysis, including data loading, text preprocessing, sentiment classification using VADER (Valence Aware Dictionary and sEntiment Reasoner), RoBERTa (Robustly optimized BERT approach), and LDA (Latent Dirichlet Allocation).
@@ -48,8 +48,7 @@ jupyter notebook
 ```
 3. Open and run:
    
-*`notebook.ipynb` to analyze sentiment data.
-
+* `notebook.ipynb` to analyze sentiment data.
 * `prototype.ipynb` to launch the Gradio dashboard.
 
 ## Acknowledgements
