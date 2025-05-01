@@ -34,7 +34,7 @@ The project is created with:
 Install the required Python packages:
 
 ```bash
-pip install pandas numpy matplotlib seaborn nltk scikit-learn gradio
+pip install pandas numpy matplotlib seaborn nltk scikit-learn vaderSentiment torch transformers gradio
 ```
 ### Running Notebooks
 1. Clone the repository:
