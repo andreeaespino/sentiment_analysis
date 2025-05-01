@@ -27,6 +27,16 @@ The project is created with:
 - Gradio interface for quick deployment and interaction
 - Insight filtering by hotel, city, or review time
 
+## Getting Started
+
+### Prerequisites
+
+Install the required Python packages:
+
+```bash
+pip install pandas numpy matplotlib seaborn nltk scikit-learn gradio
+
+
 ## Acknowledgements
 - NLP tools: NLTK, Scikit-learn
 - Gradio for interactive app building
