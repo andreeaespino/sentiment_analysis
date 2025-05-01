@@ -36,7 +36,20 @@ Install the required Python packages:
 ```bash
 pip install pandas numpy matplotlib seaborn nltk scikit-learn gradio
 ```
+### Running Notebooks
+1. Clone the repository:
+```bash
+git clone https://github.com/andreeaespino/sentiment_analysis.git
+cd sentiment_analysis
+```
+2. Launch Jupyter Notebook:
+```bash
+jupyter notebook
+```
+3. Open and run:
+*`notebook.ipynb` to analyze sentiment data.
 
+* `prototype.ipynb` to launch the Gradio dashboard.
 
 ## Acknowledgements
 - NLP tools: NLTK, Scikit-learn
