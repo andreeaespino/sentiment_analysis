@@ -19,7 +19,7 @@ The project is created with:
 ## Contents
 - **`notebook.ipynb`**: Core notebook for sentiment analysis, including data loading, text preprocessing, sentiment classification using VADER (Valence Aware Dictionary and sEntiment Reasoner), RoBERTa (Robustly optimized BERT approach), and LDA (Latent Dirichlet Allocation).
   
-- `**prototype.ipynb**`: Contains the Gradio-based dashboard prototype, allowing users to interactively explore sentiment insights across different hotel services, locations, or time periods.
+- **`prototype.ipynb`**: Contains the Gradio-based dashboard prototype, allowing users to interactively explore sentiment insights across different hotel services, locations, or time periods.
 
 ## Features
 - Automatic sentiment classification of customer reviews
