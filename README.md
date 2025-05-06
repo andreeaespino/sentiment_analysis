@@ -1,7 +1,7 @@
 # Hotel Industry Sentiment Analysis Dashboard
 This repository contains Python notebooks for performing and visualizing sentiment analysis in the hotel industry. It includes data processing, sentiment classification, and an interactive prototype dashboard to explore customer feedback and trends.
 
-This was my final project from AllWomen AI Applied Bootcamp, you can see my project presentation [here](https://github.com/andreeaespino/sentiment_analysis/blob/5b5e08ffc37a1e66c51b3dc98e5066a861464f4a/presentation_sentiment_analysis_dashboard.pptx), and [my Medium article] (https://medium.com/@andreeaespino/building-a-sentiment-analysis-and-topic-modeling-dashboard-for-the-hotel-industry-188e69159bc0).
+This was my final project from AllWomen AI Applied Bootcamp, you can see my project presentation [here](https://github.com/andreeaespino/sentiment_analysis/blob/5b5e08ffc37a1e66c51b3dc98e5066a861464f4a/presentation_sentiment_analysis_dashboard.pptx), and [my Medium article](https://medium.com/@andreeaespino/building-a-sentiment-analysis-and-topic-modeling-dashboard-for-the-hotel-industry-188e69159bc0).
 
 ## Dataset Information
 The hotel reviews used in this project are sourced from the OpinRank Review Dataset, which compiles full customer reviews collected from TripAdvisor. The dataset covers hotels in 10 major cities, with each city containing approximately 80 to 700 hotels. In total, the dataset includes 254,571 reviews, providing a rich and diverse base for sentiment analysis and insights into customer experiences across a wide range of hotel services and locations.
